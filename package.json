@@ -60,7 +60,7 @@
     "bfj": "^7.0.2",
     "blake2b-wasm": "^2.4.0",
     "circom_runtime": "0.1.24",
-    "ejs": "^3.1.6",
+    "ejs": "^6.0.1",
     "fastfile": "0.0.20",
     "ffjavascript": "0.2.63",
     "js-sha3": "^0.8.0",
